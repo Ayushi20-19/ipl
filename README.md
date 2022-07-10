@@ -13,6 +13,7 @@
 ### Technologies Used
 
 - React
+- Vanilla CSS
 
 ---
 
