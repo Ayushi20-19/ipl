@@ -18,9 +18,9 @@
 
 ## Features
 
-<li>Macthed Datils</li>
-<li>Winby run and wicket</li>
-<li>Get deatls by Data and Year</li>
+<li>Match Details</li>
+<li>Win by run and wicket</li>
+<li>Get deatails by Data and Year</li>
 <li>Simple UI</li>
 
 
