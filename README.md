@@ -1,11 +1,11 @@
 <h1 align="center">
   <br />
-  <a href=""><h1>IPLCraze</h1>
+  <a href="https://iplcraze.netlify.app/"><h1>IPLCraze</h1>
  </a>
 </h1>
 <hr/>
 
-## IPLCraze  ([explore]())
+## IPLCraze  ([explore](https://iplcraze.netlify.app/))
 ### DO you also feels left out when you miss some matches, don't worry we got your back here is a web app for IPL fans, get the deatils of previous IPL, including man of the match and win by run or wicket.
 
 
