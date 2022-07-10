@@ -1,0 +1,59 @@
+.card-wrapper {
+  display: flex;
+}
+.date-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.date {
+  display: flex;
+  justify-content: space-around;
+  width: 40%;
+}
+.team1,
+.team2 {
+  background-color: rgb(227, 255, 246);
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.5rem;
+  padding: 1rem;
+  font-family: "Satisfy", cursive;
+  text-align: center;
+}
+
+.content {
+  width: 40%;
+}
+.toss-wrapper {
+  padding: 0.6rem 0.2rem;
+}
+
+.winner {
+  font-size: 1.5rem;
+  padding: 0.6rem 0.2rem;
+  color: gray;
+}
+.winner span {
+  color: green;
+  font-weight: 600;
+}
+.run {
+  display: flex;
+  justify-content: space-around;
+  color: gray;
+  padding: 0.6rem 0.2rem;
+}
+.run span {
+  color: green;
+}
+
+.player {
+  color: gray;
+  padding: 0.6rem 0.2rem;
+}
+
+.player span {
+  color: blue;
+}
